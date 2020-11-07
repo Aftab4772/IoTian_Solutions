@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetails>
+	<Product>
+		<Details>
+			HC-SR505 Mini Infrared PIR Motion Sensor Infrared Detector Module is based on infrared technology, It automatically controls the products with high sensitivity, high reliability, ultra-small size, and ultra-low-voltage operation mode.
+
+			It is widely used in various auto-sensing of electrical equipment, especially battery-powered automatic control products.
+		</Details>
+		<InfoHeader>
+			Specification
+		</InfoHeader>
+		<Info>
+			Applications of HC-SR505 Mini Infrared PIR Motion Sensor Infrared Detector Module:-
+
+			Body induction lamps.
+			Body sensors toys.
+			Security Products.
+			Industrial automation and control.
+			Auto-sensing of electrical equipment.
+			Battery-powered automatic control.
+
+
+			Features of HC-SR505 Mini Infrared PIR Motion Sensor Infrared Detector Module:-
+
+			Low-power consumption
+			Output level: High 3.3V / Low 0V
+			Trigger: repeatable trigger (default)
+			Automatic induction: to enter the sensing range of the output is high, people leave the sensor range automatically delay off high, output low. Ultra-small size.
+			Repeatable trigger: the sensor output high, the delay period, if there is human activity in its sensing range, the output will remain high until people leave after the high variable delay Low (automatically extended sensor module detects the human body after every activity a delay period, and the last time an event is the starting point of the delay time).
+			Wide operating voltage range: the default operating voltage DC4.5V-20V.
+			Micropower: quiescent current &lt;50 microamps, especially for battery-powered automatic control products.
+			Output high signal: easy docking and all kinds of circuits.
+
+
+			Specifications of HC-SR505 Mini Infrared PIR Motion Sensor Infrared Detector Module:-
+
+			Model:	HC-SR505
+			Operating Voltage Range:	DC4.5-20V
+			Average Current Consumption (mA):	0.06
+			Distance Measuring Range:	3 meters
+			Dimensions (mm) LxWxH:	10 x 23 x 5
+			Weight (gm):	10
+			Delay time:	Default 8S + -30% (can be customized)
+			Working Temperature Range:	-20°C ~ 80°C
+			Sensor Lens Diameter:	10mm
+			Induction angle:	&lt;100-degree cone angle
+		</Info>
+	</Product>
+</ProductDetails>
