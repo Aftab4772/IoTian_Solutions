@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetails>
+	<Product>
+		<Details>
+			This is 1 Channel 5V Relay Board Module For Arduino PIC AVR DSP ARM. A wide range of microcontrollers such as Arduino, AVR, PIC, ARM and so on can control it.
+
+			Each one needs 15mA - 20mA driver current and Equipped with high current relay: DC 5V / 10A, AC 250V / 10A
+
+			Standard interface that can be compatible with microcontroller.
+		</Details>
+		<InfoHeader>
+			Specification
+		</InfoHeader>
+		<Info>
+			1 channel relay board
+			Operating Voltage 5V
+			Max Current : 20mA
+			Relay Contact Current Capacity at AC250V: 10A
+			Relay Contact Current Capacity at DC5V: 10A
+			One normally closed contact and one normally open contact
+			Triode drive, increasing relay coil
+			High impedance controller pin
+			Pull-down circuit for avoidance of malfunction
+			Power supply indicator lamp
+			Control indicator lamp
+			Indicator for Relay output status
+			Can Be controlled various appliances &amp; other Equipment With Large current.
+			Standard TTL Level logic controlled (AVR, Arduino, 8051, PIC, ARM)
+			The module is compliant with international safety standards, control and load areas isolation trenches
+		</Info>
+	</Product>
+</ProductDetails>

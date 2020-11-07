@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetails>
+<Product>
+  <Details>
+	  Description:-
+
+	  The Arduino Uno R3 is a open source microcontroller board based on the ATmega328 chip. This Board has 14 digital input/output pins, 6 analog input pins, Onboard 16 MHz ceramic resonator, Port for USB connection, Onboard DC power jack, An ICSP header and a microcontroller reset button. It contains everything needed to support the microcontroller. Using the board is also very easy, simply connect it to a computer with a USB cable or power it with DC adapter or battery to get started.
+
+	  The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the Atmega16U2Atmega8U2 up to version R2) programmed as a USB-to-serial converter. While the Arduino UNO can be powered via the USB connection or with an external power supply, the power source is selected automatically.
+
+	  External (non-USB) power can come either from an AC-to-DC adapter (wall-wart) or battery. The adapter can be connected by plugging a 2.1mm center-positive plug into the board&#39;s power jack. Also leads from a battery can be inserted in the Gnd and Vin pin headers of the Power connector. The board can operate on an external supply of 6 to 20 volts. If supplied with less than 7V, however, the 5V pin may supply less than five volts and the board may be unstable. If using more than 12V, the voltage regulator may overheat and damage the board. The recommended range is 5v to 12v for Arduino Uno.
+  </Details>
+  <InfoHeader>
+    Specification
+  </InfoHeader>
+  <Info>
+	  Features:-
+
+	  Microcontroller: ATmega328P.
+	  Operating Voltage: 5V.
+	  Input Voltage: 7-12V.
+	  Digital I/O Pins: 14 (of which 6 provide PWM output).
+	  Analog Input Pins: 6.
+	  DC Current: 40mA.
+	  Flash Memory: 32 KB.
+	  SRAM: 2 KB.
+	  EEPROM: 1 KB.
+	  Clock Speed: 16 MHz.
+
+
+	  Applications:-
+
+	  DIY project prototyping.
+	  Developing varied varieties of projects that require a code based control.
+	  Automation System development.
+	  Learning AVR programming.
+	  Entry level circuit designing.
+  </Info>
+</Product>
+</ProductDetails>

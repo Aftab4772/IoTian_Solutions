@@ -1,0 +1,17 @@
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.csprojAssemblyReference.cache
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\About.xaml.g.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\MainSearchWindow.xaml.g.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\ProductDetails.xaml.g.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.AssemblyInfoInputs.cache
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.AssemblyInfo.cs
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.dll
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\ref\IoTian Solutions.dll
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\IoTian Solutions.pdb
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\bin\Release\netstandard2.0\IoTian Solutions.deps.json
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\bin\Release\netstandard2.0\IoTian Solutions.dll
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\bin\Release\netstandard2.0\ref\IoTian Solutions.dll
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\bin\Release\netstandard2.0\IoTian Solutions.pdb
+C:\Users\Acer1\source\repos\IoTian Solutions\IoTian Solutions\IoTian Solutions\obj\Release\netstandard2.0\XamlC.stamp
